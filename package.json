@@ -1,6 +1,6 @@
 {
   "name": "@alexcarpenter/tailwindcss-aria",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "TailwindCSS variants to style elements based on aria attribute values.",
   "main": "index.js",
   "scripts": {
