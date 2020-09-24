@@ -1,0 +1,19 @@
+{
+  "name": "@alexcarpenter/tailwindcss-aria",
+  "version": "0.1.0",
+  "description": "TailwindCSS variants to style elements based on aria attribute values.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "tailwindcss",
+    "css",
+    "accessibility"
+  ],
+  "author": "Alex Carpenter <im.alexcarpenter@gmail.com> (https://alexcarpenter.me)",
+  "license": "MIT",
+  "devDependencies": {
+    "tailwindcss": "^1.8.10"
+  }
+}
