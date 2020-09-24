@@ -2,6 +2,27 @@
 
 > TailwindCSS variants to style elements based on aria attributes values.
 
+## Installation
+
+```bash
+$ npm install @alexcarpenter/tailwindcss-aria
+```
+
+Then add the plugin to you `tailwind.config.js` file:
+
+```js
+// tailwind.config.js
+module.exports = {
+  variants: {
+    textColor: ['current'],
+    rotate: ['expanded']
+  },
+  plugins: [
+    require('@alexcarpenter/tailwindcss-aria'),
+  ],
+}
+```
+
 ## aria-current
 
 Available values: `page`, `step`, `location`, `date`, `time`, `true`, `false`.
