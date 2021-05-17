@@ -11,6 +11,10 @@
     "css",
     "accessibility"
   ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/alexcarpenter/tailwindcss-aria.git"
+  },
   "author": "Alex Carpenter <im.alexcarpenter@gmail.com> (https://alexcarpenter.me)",
   "license": "MIT",
   "devDependencies": {
